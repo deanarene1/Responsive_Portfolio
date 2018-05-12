@@ -230,6 +230,10 @@ html {
         width: 100%;
     }
 
+    #contactpage {
+        width: 100%;
+    }
+
     footer {
         width: 100%;
     }
@@ -239,6 +243,31 @@ html {
     }
 
     .contact-info {
+        width: 100%;
+    }
+
+    #newhr {
+        width: 100%;
+    }
+
+
+    #name {
+        width: 90%;
+    }
+
+    #email {
+        width: 90%;
+    }
+
+    p {
+        width: 100%;
+    }
+
+    #text {
+        width: 100%;
+    }
+
+    #response {
         width: 100%;
     }
 }
@@ -259,11 +288,58 @@ html {
     .contact-info {
         width: 100%;
     }
+
+    #contactpage {
+        width: 100%;
+    }
+
+    #name {
+        width: 85%;
+    }
+
+    #email {
+        width: 85%;
+    }
+
+    #message {
+        width: 85%;
+    }
+
+    #newhr {
+        width: 100%;
+    }
+
+    p {
+        width: 100%;
+    }
+
+    #text {
+        width: 100%;
+    }
+
+    #response {
+        width: 90%;
+    }
+
+
+    hr {
+        width: 100%;
+     }
+
+     .tab {
+        display: none;
+    }
+ 
 }
 
 @media screen and (max-width: 640px) {
     body {
         width: 100%;
+        font-size: 12px;
+    }
+
+    hr {
+       width: 100%;
     }
 
     footer {
@@ -278,8 +354,58 @@ html {
         width: 100%;
     }
 
+    #contactpage {
+        width: 100%;
+    }
+
     h1 {
         position: static;
     }
+
+    #contact-info {
+        position: static;
+    }
+
+    h2 {
+        position: static;
+    }
+
+    #newhr {
+        width: 100%;
+    }
+
+    #br {
+        width: 80%;
+    }
+
+
+    #name {
+        width: 75%;
+    }
+
+    #email {
+        width: 75%;
+    }
+
+    #message {
+        width: 75%;
+    }
+
+    p {
+        width: 100%;
+    }
+
+    #text {
+        width: 100%;
+    }
+
+    #response {
+        width: 100%;
+    }
+
+    .tab {
+        display: none;
+    }
+
 }
 
